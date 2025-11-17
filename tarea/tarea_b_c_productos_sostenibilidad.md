@@ -11,7 +11,7 @@ Debes basarte en una aplicación real encontrada en noticias o informes.
 
 | Tecnología | Producto/servicio digital | Caso real encontrado (enlace) | Beneficio para el cliente | Beneficio para la empresa |
 |-----------|----------------------------|-------------------------------|----------------------------|---------------------------|
-| IA | | | | |
+| IA |Hola | | | |
 | IoT | | | | |
 | Big Data | | | | |
 | Cloud Computing | | | | |
@@ -56,3 +56,4 @@ Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
+
