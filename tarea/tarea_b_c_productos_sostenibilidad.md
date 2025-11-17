@@ -1,7 +1,8 @@
 # Tarea 2 · Relación de THD con productos/servicios, sostenibilidad e investigación
 
 ## 🏢 Empresa seleccionada
-Breve descripción de la empresa real o ficticia.
+Abengoa, S.A. Multinacional con sede en Sevilla especializada en infraestructuras sostenibles, energía renovable, agua y biocombustibles.
+Aunque ha tenido dificultades financieras, su experiencia y tecnología en energía solar, desalación y operación de plantas es muy relevante.
 
 ---
 
@@ -11,8 +12,8 @@ Debes basarte en una aplicación real encontrada en noticias o informes.
 
 | Tecnología | Producto/servicio digital | Caso real encontrado (enlace) | Beneficio para el cliente | Beneficio para la empresa |
 |-----------|----------------------------|-------------------------------|----------------------------|---------------------------|
-| IA | | | | |
-| IoT | | | | |
+| IA | Mantenimiento predictivo en plantas solares y de agua | Abengoa reporta mantenimiento predictivo en sus plantas O&M usando técnicas | Mayor fiabilidad del suministro de energía o agua, menos cortes | energía o agua, menos cortes. Reduce costes operativos, optimiza intervenciones y alarga la vida útil de los activos. |
+| IoT | Sensores en tanques de agua | Infraestructura de Abengoa en agua y energía: Abengoa diseña plantas de agua y energía renovable | Monitorización en tiempo real de parámetros críticos | Permite control remoto, detectar fugas o anomalías e intervenir antes de que sean graves |
 | Big Data | | | | |
 | Cloud Computing | | | | |
 | Blockchain | | | | |
@@ -56,5 +57,6 @@ Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
+
 
 
