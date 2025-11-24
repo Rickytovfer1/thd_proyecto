@@ -17,7 +17,7 @@ Debes basarte en una aplicación real encontrada en noticias o informes.
 | Big Data | Plataforma de analítica para datos operacionales | Servicios O&M de Abengoa incluyen “data analysis and treatment in a single platform” para salud de activo | Clientes pueden tener reportes transparentes de eficiencia y estado | Mejora la toma de decisiones operativas, optimiza recursos y reduce riesgo. |
 | Cloud Computing | Infraestructura cloud para gestión global de datos | Abengoa tiene múltiples plantas en distintos países y usa sistemas de información para gestión E-O&M | Acceso a dashboards e informes desde cualquier lugar, para clientes institucionales | Escalabilidad, integración de datos de diferentes plantas y localizaciones, recuperación ante desastres |
 | Blockchain | Trazabilidad en la cadena de suministro de biomasa y agua | Podría usarse para trazabilidad de biocombustibles o recursos hídricos | Más transparencia | Permite certificaciones verdes, mejora la reputación y puede abrir nuevos mercados sostenibles |
-| Ciberseguridad | Protección de plataforma de analítica para datos operacionales | | | |
+| Ciberseguridad | Protección de plataforma de analítica para datos operacionales | Abengoa tiene operaciones globales y activos críticos | Garantiza que el servicio no se interrumpa por ciberataques | Minimiza riesgos de ataques |
 | RA/RV | Simulador AR / VR para entrenamiento técnico en plantas solares | No he encontrado información para este caso | | |
 
 ---
@@ -57,6 +57,7 @@ Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
+
 
 
 
