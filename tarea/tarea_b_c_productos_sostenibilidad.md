@@ -40,23 +40,29 @@ Describe cómo cada tecnología contribuye a la sostenibilidad y la eficiencia.
 ## 🔍 Investigación de casos reales (obligatoria)
 Resume brevemente los casos y explica cómo podrían aplicarse a tu empresa.
 
-- Caso IA:
-- Caso IoT:
-- Caso Big Data:
-- Caso Cloud:
-- Caso Blockchain:
-- Caso Ciberseguridad:
-- Caso RA/RV:
+- Caso IA: En el Informe de 2022, Abengoa señala que aplica mantenimiento predictivo
+- Caso IoT: Abengoa construye y opera plantas de desalación y de generación de energía donde el monitoreo de tanques, presión y flujo es clave
+- Caso Big Data: En su división de Services/O&M, Abengoa describe plataformas de análisis de datos para evaluar la salud de activos y generar informes técnico
+- Caso Cloud: Abengoa, al operar plantas en muchos países y con diferentes tecnologías, necesita soluciones centralizadas para gestión y operación de datos globales
+- Caso Blockchain: La idea de trazabilidad de agua encaja con otros proyectos energéticos
+- Caso Ciberseguridad: En infraestructuras críticas como plantas de energía, la ciberseguridad es fundamental
+- Caso RA/RV: La formación técnica en plantas solares o de agua puede mejorar mucho con simulaciones VR o guías AR
 
 ---
 
 ## 🧠 Reflexión final
 - ¿Qué tecnología aporta más valor a los productos/servicios?
+  Probablemente IA y Big Data, porque permiten optimizar el mantenimiento y la operación de sus plantas
 - ¿Cuál genera mayor impacto sostenible?
+  IoT y Big Data ayudan a operar con más eficiencia energética y menos pérdidas
 - ¿Qué combinación sería más eficiente para la empresa?
-
+  Una combinación IoT, Big Data y IA
 ## 📚 Fuentes consultadas
 (Enlaces a las noticias o informes usados)
+https://abengoa.com/export/sites/abengoa_corp/resources/pdf/gobierno_corporativo/informes_anuales/2022/Tomo1/2022_Tomo1_IA.pdf 
+https://abengoa.com/export/sites/abengoa_corp/resources/pdf/noticias_y_publicaciones/20220322_Nota-hitos-desalacion_es.pdf 
+https://www.abengoa.com/export/sites/abengoa_corp/resources/pdf/noticias_y_publicaciones/20150415-Dossier-Abengoa-Water-Ghana_es.pdf
+
 
 
 
